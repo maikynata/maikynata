@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikynata&show_icons=true&locale=en&theme=dracula" alt="maikynata" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maikynata&theme=dracula" alt="maikynata" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maikynata&theme=dracula" alt="maikynata" /></p> -->
