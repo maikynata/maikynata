@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Maiky Nata</h1>
 <h3 align="center">A passionate Full Stack Developer from Brazil, traveling around the World.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/maikynata]([https://github.com/maikynata](https://github.com/maikynata?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/maikynata](https://github.com/maikynata?tab=repositories)
 
 - 📫 How to reach me **maikynata25@gmail.com**
 
